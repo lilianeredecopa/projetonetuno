@@ -52,18 +52,17 @@ header{
    
 }
 .objetivo{
-    padding: 15px;
+    padding: 5px;
     text-align: center;
+    font-size: 10px;
+    
+    
 }
 div.texto{
-    
-    height: 130px;
-    width: 200px;
     display: inline-block;
-    border-radius: 5px;
-    font-size: 12px;
-    
-
+    border-radius: 5px;   
+    height: 150px;
+    width: 100px;
 }
 #container-a{
  background-color:white;
@@ -105,7 +104,7 @@ div.destaque{
 #container{
     background-color: var(--cor001);
     text-align: center;
-    font-size: 13px;
+    font-size: 14px;
     padding: 5px;
 }
 
@@ -163,12 +162,13 @@ footer{
     background-color: #000;
     color: white; 
     padding: 10px; 
-    
+    font-size: 10px;
+
 }
 .botao-foot{
     background-color: white;
     color: black;
-    border-radius: 5px;
+    border-radius: 6px;
 }
 footer>p{
     text-align:center;
